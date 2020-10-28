@@ -2,7 +2,7 @@
   "title": "Vip Life R.I.P.",
   "description": "pour one out for the team members that left",
   "author": "Vip Life",
-  "daysMessage": "Al {days} dagen sind {name} Team {team} heeft verlaten!",
+  "daysMessage": "Al {days} dagen sinds {name} Team {team} heeft verlaten!",
   "teams": [
     {
       "name": "FunControl",
