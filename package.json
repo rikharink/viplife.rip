@@ -1,0 +1,17 @@
+{
+  "name": "viplife.rip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rik Harink",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "riplife build && dotnet-serve -d public",
+    "dist": "riplife build"
+  },
+  "devDependencies": {
+    "@viplife/riplife": "^1.0.3",
+    "@yarnpkg/pnpify": "^2.3.3",
+    "tslib": "^2.0.3"
+  }
+}

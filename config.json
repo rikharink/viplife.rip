@@ -1,0 +1,46 @@
+{
+  "title": "Vip Life R.I.P.",
+  "description": "Pour one out for the team members that left your team",
+  "author": "Vip Life",
+  "daysMessage": "Al {days} dagen sind {name} Team {team} heeft verlaten!",
+  "teams": [
+    {
+      "name": "FunControl",
+      "slug": "funcontrol",
+      "deserters": [
+        {
+          "team": "FunControl",
+          "name": "Thijs",
+          "date": "2019-08-28T00:00:00.000Z",
+          "message": ":moelijklang:",
+          "picture": "/img/funcontrol/moeilijklang.gif",
+          "slug": "moeilijklang"
+        },
+        {
+          "team": "FunControl",
+          "name": "Roel",
+          "date": "2020-07-01T00:00:00.000Z",
+          "message": "#riproel",
+          "picture": "/img/funcontrol/roel.png",
+          "slug": "roel"
+        },
+        {
+          "team": "FunControl",
+          "name": "Jurgen",
+          "date": "2020-09-01T00:00:00.000Z",
+          "message": "Eerst was je t-shirt weg en nu jij ook 😢",
+          "picture": "/img/funcontrol/jurgen.png",
+          "slug": "jurgen"
+        },
+        {
+          "team": "FunControl",
+          "name": "Nina",
+          "date": "2020-10-26T00:00:00.000Z",
+          "message": "Helaas is je laatste teen ook vertrokken uit ons mooie team 😔",
+          "picture": "/img/funcontrol/nina.jpg",
+          "slug": "nina"
+        }
+      ]
+    }
+  ]
+}

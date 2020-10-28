@@ -1,0 +1,30 @@
+{% layout "./templates/baseof.liquid" %} {% block content %}
+<pre id="team" class="mono">{{ team.name }}</pre>
+<ul>
+  {%- for deserter in team.deserters | sort: 'date' %}
+  <li>
+    <a href="{{ deserter.slug }}.html">
+      {{ deserter.date | date: "%Y-%m-%d" }} - {{ deserter.name }}
+    </a>
+  </li>
+  {%- endfor%}
+</ul>
+{% endblock %} {% block scripts %}
+<script type="text/javascript" src="/js/figlet.js"></script>
+<script>
+  const team = document.querySelector("#team");
+  figlet.defaults({
+    fontPath: "/fonts",
+  });
+  figlet.preloadFonts(["Caligraphy"], ready);
+  function ready() {
+    figlet(team.innerText, "Caligraphy", function (err, text) {
+      if (err) {
+        console.error(err);
+        return;
+      }
+      team.innerText = text;
+    });
+  }
+</script>
+{% endblock %}
