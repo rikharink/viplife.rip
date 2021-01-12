@@ -39,6 +39,22 @@
           "message": "Helaas is je laatste teen ook vertrokken uit ons mooie team 😔",
           "picture": "/img/funcontrol/nina.jpg",
           "slug": "nina"
+        },
+        {
+          "team": "FunControl",
+          "name": "Anne",
+          "date": "2020-11-23T00:00:00.000Z",
+          "message": "🌫 You will be mist! 🌁",
+          "picture": "/img/funcontrol/anne.png",
+          "slug": "anne"
+        },
+        {
+          "team": "FunControl",
+          "name": "Robert",
+          "date": "2021-01-11T00:00:00.000Z",
+          "message": "Nam helaas de hype-train naar team TREIN",
+          "picture": "/img/funcontrol/robert.jpg",
+          "slug": "robert"
         }
       ]
     }
