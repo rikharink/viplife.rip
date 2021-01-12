@@ -13,7 +13,7 @@
           "name": "Thijs",
           "date": "2019-08-28T00:00:00.000Z",
           "message": ":moelijklang:",
-          "picture": "/img/funcontrol/moeilijklang.gif",
+          "picture": "https://viplife.rip/img/funcontrol/moeilijklang.gif",
           "slug": "moeilijklang"
         },
         {
@@ -21,7 +21,7 @@
           "name": "Roel",
           "date": "2020-07-01T00:00:00.000Z",
           "message": "#riproel",
-          "picture": "/img/funcontrol/roel.png",
+          "picture": "https://viplife.rip/img/funcontrol/roel.png",
           "slug": "roel"
         },
         {
@@ -29,7 +29,7 @@
           "name": "Jurgen",
           "date": "2020-09-01T00:00:00.000Z",
           "message": "Eerst was je t-shirt weg en nu jij ook 😢",
-          "picture": "/img/funcontrol/jurgen.png",
+          "picture": "https://viplife.rip/img/funcontrol/jurgen.png",
           "slug": "jurgen"
         },
         {
@@ -37,7 +37,7 @@
           "name": "Nina",
           "date": "2020-10-26T00:00:00.000Z",
           "message": "Helaas is je laatste teen ook vertrokken uit ons mooie team 😔",
-          "picture": "/img/funcontrol/nina.png",
+          "picture": "https://viplife.rip/img/funcontrol/nina.png",
           "slug": "nina"
         },
         {
@@ -45,7 +45,7 @@
           "name": "Anne",
           "date": "2020-11-23T00:00:00.000Z",
           "message": "🌫 You will be mist! 🌁",
-          "picture": "/img/funcontrol/anne.png",
+          "picture": "https://viplife.rip/img/funcontrol/anne.png",
           "slug": "anne"
         },
         {
@@ -53,7 +53,7 @@
           "name": "Robert",
           "date": "2021-01-11T00:00:00.000Z",
           "message": "Nam helaas de moneytrain naar team TREIN",
-          "picture": "/img/funcontrol/robert.png",
+          "picture": "https://viplife.rip/img/funcontrol/robert.png",
           "slug": "robert"
         }
       ]
