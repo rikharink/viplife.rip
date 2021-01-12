@@ -5,3 +5,4 @@
 # GitHub Linguist Override
 .yarn/* linguist-vendored
 .pnp.js linguist-vendored
+assets/img/** filter=lfs diff=lfs merge=lfs -text
