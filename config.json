@@ -55,6 +55,28 @@
           "message": "Nam helaas de moneytrain naar team TREIN",
           "picture": "https://viplife.rip/img/funcontrol/robert.png",
           "slug": "robert"
+        },
+        {
+          "team": "FunControl",
+          "name": "Robert",
+          "date": "2023-07-10T00:00:00.000Z",
+          "message": "Vond de treinen zo vervelend dat hij maar in Arnhem is gaan werken",
+          "picture": "https://viplife.rip/img/funcontrol/robert.png",
+          "slug": "robert"
+        }
+      ]
+    },
+    {
+      "name": "CI CD Beheer",
+      "slug": "cicd",
+      "deserters": [ 
+        {
+          "team": "CI CD Beheer",
+          "name": "Jenkins",
+          "date": "2023-08-01T10:00:00.000Z",
+          "message": "Je hebt jaren hard voor ons gewerkt maar echte butlers zitten tegenwoordig in de cloud",
+          "picture": "https://viplife.rip/img/cicd/jenkins.jpg",
+          "slug": "jenkins"
         }
       ]
     }

@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "serve": "riplife build && dotnet-serve -d public",
+    "serve": "riplife build && basic-http-server ./public",
     "dist": "riplife build"
   },
   "devDependencies": {
