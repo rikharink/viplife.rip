@@ -58,6 +58,14 @@
         },
         {
           "team": "FunControl",
+          "name": "Joris",
+          "date": "2023-03-21T00:00:00.000Z",
+          "message": "Wilde meer impact maken met bugs door cowboy fixes, dus is maar bij zorgverzekeraars gaan werken",
+          "picture": "https://viplife.rip/img/funcontrol/ditzel.jpg",
+          "slug": "joris"
+        },
+        {
+          "team": "FunControl",
           "name": "Robert",
           "date": "2023-07-10T00:00:00.000Z",
           "message": "Vond de treinen zo vervelend dat hij maar in Arnhem is gaan werken",
