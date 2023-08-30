@@ -63,6 +63,10 @@ a {
   }
 }
 
+ul {
+  list-style-type: "⚰️";
+}
+
 .stem {
   width: 1px;
   height: 60%;

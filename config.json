@@ -5,6 +5,36 @@
   "daysMessage": "Al {days} dagen sinds {name} Team {team} heeft verlaten!",
   "teams": [
     {
+      "name": "Topicus Zorg",
+      "slug": "zorg",
+      "deserters": [
+        {
+          "team": "Topicus Zorg",
+          "name": "1e en 2e lijn",
+          "date": "2023-09-01T00:00:00.000Z",
+          "message": "Nooit meer 12 liter huzarensalade",
+          "picture": "/img/zorg/huz12l.png",
+          "slug": "12l"
+        },
+        {
+          "team": "Topicus Zorg",
+          "name": "Zorgverzekeraars",
+          "date": "2023-09-01T00:00:00.000Z",
+          "message": "",
+          "picture": "/img/zorg/zv.png",
+          "slug": "zv"
+        },
+        {
+          "team": "Topicus Zorg",
+          "name": "Publieke Gezondheid",
+          "date": "2023-09-01T00:00:00.000Z",
+          "message": "",
+          "picture": "/img/zorg/pg.jpg",
+          "slug": "pg"
+        }
+      ]
+    },
+    {
       "name": "FunControl",
       "slug": "funcontrol",
       "deserters": [
@@ -13,7 +43,7 @@
           "name": "Thijs",
           "date": "2019-08-28T00:00:00.000Z",
           "message": ":moelijklang:",
-          "picture": "https://viplife.rip/img/funcontrol/moeilijklang.gif",
+          "picture": "/img/funcontrol/moeilijklang.gif",
           "slug": "moeilijklang"
         },
         {
@@ -21,7 +51,7 @@
           "name": "Roel",
           "date": "2020-07-01T00:00:00.000Z",
           "message": "#riproel",
-          "picture": "https://viplife.rip/img/funcontrol/roel.png",
+          "picture": "/img/funcontrol/roel.png",
           "slug": "roel"
         },
         {
@@ -29,7 +59,7 @@
           "name": "Jurgen",
           "date": "2020-09-01T00:00:00.000Z",
           "message": "Eerst was je t-shirt weg en nu jij ook 😢",
-          "picture": "https://viplife.rip/img/funcontrol/jurgen.png",
+          "picture": "/img/funcontrol/jurgen.png",
           "slug": "jurgen"
         },
         {
@@ -37,7 +67,7 @@
           "name": "Nina",
           "date": "2020-10-26T00:00:00.000Z",
           "message": "Helaas is je laatste teen ook vertrokken uit ons mooie team 😔",
-          "picture": "https://viplife.rip/img/funcontrol/nina.png",
+          "picture": "/img/funcontrol/nina.png",
           "slug": "nina"
         },
         {
@@ -45,7 +75,7 @@
           "name": "Anne",
           "date": "2020-11-23T00:00:00.000Z",
           "message": "🌫 You will be mist! 🌁",
-          "picture": "https://viplife.rip/img/funcontrol/anne.png",
+          "picture": "/img/funcontrol/anne.png",
           "slug": "anne"
         },
         {
@@ -53,7 +83,7 @@
           "name": "Robert",
           "date": "2021-01-11T00:00:00.000Z",
           "message": "Nam helaas de moneytrain naar team TREIN",
-          "picture": "https://viplife.rip/img/funcontrol/robert.png",
+          "picture": "/img/funcontrol/robert.png",
           "slug": "robert"
         },
         {
@@ -61,7 +91,7 @@
           "name": "Joris",
           "date": "2023-03-21T00:00:00.000Z",
           "message": "Wilde meer impact maken met bugs door cowboy fixes, dus is maar bij zorgverzekeraars gaan werken",
-          "picture": "https://viplife.rip/img/funcontrol/ditzel.jpg",
+          "picture": "/img/funcontrol/ditzel.jpg",
           "slug": "joris"
         },
         {
@@ -69,7 +99,7 @@
           "name": "Robert",
           "date": "2023-07-10T00:00:00.000Z",
           "message": "Vond de treinen zo vervelend dat hij maar in Arnhem is gaan werken",
-          "picture": "https://viplife.rip/img/funcontrol/robert.png",
+          "picture": "/img/funcontrol/robert.png",
           "slug": "robert2"
         }
       ]
@@ -77,13 +107,13 @@
     {
       "name": "CI CD Beheer",
       "slug": "cicd",
-      "deserters": [ 
+      "deserters": [
         {
           "team": "CI CD Beheer",
           "name": "Jenkins",
           "date": "2023-08-01T10:00:00.000Z",
           "message": "Je hebt jaren hard voor ons gewerkt maar echte butlers zitten tegenwoordig in de cloud",
-          "picture": "https://viplife.rip/img/cicd/jenkins.jpg",
+          "picture": "/img/cicd/jenkins.jpg",
           "slug": "jenkins"
         }
       ]
