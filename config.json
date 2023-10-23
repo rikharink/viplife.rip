@@ -101,6 +101,14 @@
           "message": "Vond de treinen zo vervelend dat hij maar in Arnhem is gaan werken",
           "picture": "https://viplife.rip/img/funcontrol/robert.png",
           "slug": "robert2"
+        },
+        {
+          "team": "FunControl",
+          "name": "Ingo",
+          "date": "2023-10-20T00:00:00.000Z",
+          "message": ":ingone:",
+          "picture": "https://viplife.rip/img/funcontrol/ingone.gif",
+          "slug": "ingo"
         }
       ]
     },
