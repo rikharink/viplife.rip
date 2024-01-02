@@ -109,6 +109,22 @@
           "message": ":ingone:",
           "picture": "https://viplife.rip/img/funcontrol/ingone.gif",
           "slug": "ingo"
+        },
+        {
+          "team": "FunControl",
+          "name": "Thijs Wassens",
+          "date": "2024-01-01T00:00:00.000Z",
+          "message": "Helaas is ook de laatste Thijs vertrokken uit FunControl",
+          "picture": "https://viplife.rip/img/funcontrol/thijswassens.png",
+          "slug": "thijswassens"
+        },
+        {
+          "team": "FunControl",
+          "name": "Bert-Jan",
+          "date": "2024-01-01:00:00:00.000Z",
+          "message": "Are you gone, Bert-Yuri? No comrade Proposition Lead, I have only just begun.",
+          "picture": "https://viplife.rip/img/funcontrol/bertjan.png",
+          "slug": "bertjan"
         }
       ]
     },
