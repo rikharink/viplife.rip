@@ -125,6 +125,22 @@
           "message": "Are you gone, Bert-Yuri? No comrade Proposition Lead, I have only just begun.",
           "picture": "https://viplife.rip/img/funcontrol/bertjan.png",
           "slug": "bertjan"
+        },
+        {
+          "team": "FunControl",
+          "name": "Vera",
+          "date": "2024-01-29T00:00:00.000Z",
+          "message": "Wie Vera zegt moet nu Proigia zeggen",
+          "picture": "https://viplife.rip/img/funcontrol/vera.jpg",
+          "slug": "vera"
+        },
+        {
+          "team": "FunControl",
+          "name": "Nanneke",
+          "date": "2024-01-31T00:00:00.000Z",
+          "message": "Voor Nanneke is het gras daadwerkelijk groener bij de buren",
+          "picture": "https://viplife.rip/img/funcontrol/nanneke.jpg",
+          "slug": "nanneke"
         }
       ]
     },
